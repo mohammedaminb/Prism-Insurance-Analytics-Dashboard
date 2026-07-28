@@ -78,3 +78,21 @@ To explore or run this project locally:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/your-username/prism-insurance-analytics.git](https://github.com/your-username/prism-insurance-analytics.git)
+
+   Open the Power BI Dashboard:
+
+        - Download and open the .pbix file using Power BI Desktop.
+
+Review Power Query Steps:
+
+       - Open the Power Query Editor to inspect the applied data transformation steps, custom columns, and schema mappings.
+
+Project Structure
+
+prism-insurance-analytics/
+│
+├── data/                    # Cleaned dataset source files
+├── dashboard/               # Power BI .pbix dashboard file
+├── images/                  # Dashboard screenshots and visual exports
+├── README.md                # Project documentation
+└── LICENSE                  # MIT License
