@@ -1,3 +1,9 @@
+<img width="1239" height="676" alt="Capture d&#39;écran 2026-07-28 163538" src="https://github.com/user-attachments/assets/7e9b2664-607e-46f9-af1b-8f868c3a6c4a" />
+
+
+
+
+
 # Prism Insurance Analytics Dashboard
 
 [![Power BI](https://img.shields.io/badge/Power_BI-Desktop-yellow.svg)](https://powerbi.microsoft.com/)
@@ -87,12 +93,4 @@ Review Power Query Steps:
 
        - Open the Power Query Editor to inspect the applied data transformation steps, custom columns, and schema mappings.
 
-Project Structure
 
-prism-insurance-analytics/
-│
-├── data/                    # Cleaned dataset source files
-├── dashboard/               # Power BI .pbix dashboard file
-├── images/                  # Dashboard screenshots and visual exports
-├── README.md                # Project documentation
-└── LICENSE                  # MIT License
