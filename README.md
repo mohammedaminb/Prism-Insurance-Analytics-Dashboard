@@ -101,3 +101,19 @@ prism-insurance-analytics/
 ├── Insurance.pbix           # Power BI interactive dashboard file
 ├── InsuranceData.csv        # Cleaned dataset source file
 └── README.md                # Project documentation
+
+
+## 🚀 How to Use
+
+1. Download the `.pbix` file
+2. Open with **Power BI Desktop** (free)
+3. Use the **date slicers** to filter any time period
+4. Navigate between pages using the tabs at the bottom
+
+
+## 👤 Author
+
+**Data Analyst | IS Engineering Student | Türkiye 🇹🇷**  
+Python · SQL · Power BI · DAX · pandas · Statistical Testing  
+AR · FR · TR · EN
+
