@@ -79,7 +79,7 @@ To explore or run this project locally:
    ```bash
    git clone [https://github.com/your-username/prism-insurance-analytics.git](https://github.com/your-username/prism-insurance-analytics.git)
 
-   Open the Power BI Dashboard:
+Open the Power BI Dashboard:
 
         - Download and open the .pbix file using Power BI Desktop.
 
