@@ -93,4 +93,11 @@ Review Power Query Steps:
 
        - Open the Power Query Editor to inspect the applied data transformation steps, custom columns, and schema mappings.
 
+Project Structure
 
+
+prism-insurance-analytics/
+│
+├── Insurance.pbix           # Power BI interactive dashboard file
+├── InsuranceData.csv        # Cleaned dataset source file
+└── README.md                # Project documentation
